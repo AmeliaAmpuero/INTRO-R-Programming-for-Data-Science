@@ -1,1 +1,11 @@
-# INTRO-R-Programming-for-Data-Science
+<h1>Introduction to R Programming for Data Science
+<h2>MODULE 1: R Basics</h2>
+I explored the fundamental concepts of the R programming language, including its main data types and techniques for manipulating them, such as performing mathematical operations on numerical data. I also gained an understanding of how the R interpreter processes code and transforms it into executable commands. Additionally, I worked with two popular IDEs, RStudio and Jupyter Notebook, learning how features like syntax highlighting and integrated help make coding more efficient.
+<h2>MODULE 2: Common Data Structures</h2>
+I learned to organize and store data using various R data structures, such as vectors, factors, lists, arrays, matrices, and data frames. I practiced identifying the best structure for different scenarios and worked on adding, removing, and modifying data within these structures, enabling me to handle data effectively in a variety of contexts.
+<h2>MODULE 3: R Programming Fundamentals</h2>
+I developed my skills in implementing key programming concepts in R, such as controlling program flow, defining functions to automate tasks, and working with common data types like strings and dates. I also learned to make my code more robust by identifying and handling potential errors before they disrupt execution.
+<h2>MODULE 4: Working with Data</h2>
+  I acquired practical skills for importing and managing data in R from various formats and sources, including text files, Excel spreadsheets, JSON, and XML files. I also learned to extract data from web pages and load it into the R environment, enabling me to integrate and analyze diverse datasets for data-driven projects.
+<h2>MODULE 5: Final Project</h2>
+I applied everything I had learned in a real-world scenario by analyzing global COVID-19 testing data. As part of this project, I assumed the role of a data analyst for a news channel's data science team. Using Jupyter Notebook, I web-scraped a public COVID-19 dataset and conducted various analyses to generate insights for a feature story. The project required me to acquire, process, and analyze data efficiently, demonstrating my ability to apply R programming skills to a practical problem.
